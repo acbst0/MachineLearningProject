@@ -31,6 +31,3 @@ Ensure you have Python installed and the following libraries installed:
 ## Install all dependencies using:
 ''bash''
 pip install -r requirements.txt
-
-## Dataset Link
-  https://archive.ics.uci.edu/dataset/186/wine+quality

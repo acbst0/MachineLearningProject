@@ -1,0 +1,56 @@
+Model: Random Forest
+Mean Absolute Error (MAE): 0.4202
+Mean Squared Error (MSE): 0.3494
+Root Mean Squared Error (RMSE): 0.5911
+R2 Score: 0.5489
+Mean Percentage Error (MPE): -1.4678
+
+Model: Decision Tree
+Mean Absolute Error (MAE): 0.5634
+Mean Squared Error (MSE): 0.5620
+Root Mean Squared Error (RMSE): 0.7497
+R2 Score: 0.2743
+Mean Percentage Error (MPE): -1.5011
+
+Model: SVR
+Mean Absolute Error (MAE): 0.5921
+Mean Squared Error (MSE): 0.5853
+Root Mean Squared Error (RMSE): 0.7651
+R2 Score: 0.2442
+Mean Percentage Error (MPE): -0.8746
+
+Model: Random Forest
+Mean Absolute Error (MAE): 0.4202
+Mean Squared Error (MSE): 0.3494
+Root Mean Squared Error (RMSE): 0.5911
+R2 Score: 0.5489
+Mean Percentage Error (MPE): -1.4678
+
+Model: Random Forest
+Mean Absolute Error (MAE): 0.4202
+Mean Squared Error (MSE): 0.3494
+Root Mean Squared Error (RMSE): 0.5911
+R2 Score: 0.5489
+Mean Percentage Error (MPE): -1.4678
+
+Model: Random Forest
+Mean Absolute Error (MAE): 0.4202
+Mean Squared Error (MSE): 0.3494
+Root Mean Squared Error (RMSE): 0.5911
+R2 Score: 0.5489
+Mean Percentage Error (MPE): -1.4678
+
+Model: Random Forest
+Mean Absolute Error (MAE): 0.4202
+Mean Squared Error (MSE): 0.3494
+Root Mean Squared Error (RMSE): 0.5911
+R2 Score: 0.5489
+Mean Percentage Error (MPE): -1.4678
+
+Model: Random Forest
+Mean Absolute Error (MAE): 0.4202
+Mean Squared Error (MSE): 0.3494
+Root Mean Squared Error (RMSE): 0.5911
+R2 Score: 0.5489
+Mean Percentage Error (MPE): -1.4678
+
